@@ -24,7 +24,8 @@ class CarController extends Controller
     {
 //         dd(User::find(1)->comments);
 //         dd(OrderComment::find(1)->order->user);
-//          dd(OrderComment::find(1)->user_comment);
+        //jhjksdahjsdjhadak
+        //dsasdadadasasd
 
         $page = request('page', 1);//страница
         $perPage = request('per_page', 1);//кол-во элементов на странице
